@@ -1,10 +1,10 @@
-# ICS2O Unit #X-YY
+# ICD2O Unit #3-03
 
-[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Mr Coxall's Super Linter](https://github.com/LukeDiBert/Unit3-03-HTML-VolumeSphere/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/LukeDiBert/Unit3-03-HTML-VolumeSphere/actions)
 
-[![Deploy Pages](https://github.com/<OWNER>/<REPOSITORY>/workflows/Deploy%20Pages/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Deploy Pages](https://github.com/LukeDiBert/Unit3-03-HTML-VolumeSphere/workflows/Deploy%20Pages/badge.svg)](https://github.com/LukeDiBert/Unit3-03-HTML-VolumeSphere/actions)
 
-This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
+This site can be found at: [https://LukeDiBert/Unit3-03-HTML-VolumeSphere](https://LukeDiBert/Unit3-03-HTML-VolumeSphere)
 
 ---
 
